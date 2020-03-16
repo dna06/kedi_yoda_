@@ -16,12 +16,12 @@ MonoBehaviour:
   m_GuidHigh: 12467853008828813754
   m_Images:
   - m_SerializedGuid:
-      m_GuidLow: 4878977186232593611
-      m_GuidHigh: 9888758538401697714
+      m_GuidLow: 5635317993676503163
+      m_GuidHigh: 5852015697141141396
     m_SerializedTextureGuid:
-      m_GuidLow: 4806485239123047970
-      m_GuidHigh: 16744849909540758824
-    m_Size: {x: 0.16, y: 0.21920997}
+      m_GuidLow: 2154077419808221966
+      m_GuidHigh: 8732958954457798187
+    m_Size: {x: 0.16, y: 0.192}
     m_SpecifySize: 1
-    m_Name: yoda2
+    m_Name: yoda_klein
     m_Texture: {fileID: 0}
