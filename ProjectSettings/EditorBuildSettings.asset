@@ -5,7 +5,10 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Image Tracking.unity
     guid: fa6678d5fe6e1b14ba7db914e2229184
+  - enabled: 1
+    path: Assets/Scenes/Plane Tracking.unity
+    guid: f3ed2042087378a42a32556d5e0da9a8
   m_configObjects: {}
