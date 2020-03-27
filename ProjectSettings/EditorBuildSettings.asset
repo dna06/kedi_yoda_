@@ -8,7 +8,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/Image Tracking.unity
     guid: fa6678d5fe6e1b14ba7db914e2229184
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Plane Tracking.unity
     guid: f3ed2042087378a42a32556d5e0da9a8
+  - enabled: 1
+    path: Assets/Scenes/PlaneTrackingWithUI.unity
+    guid: 77766f57a6849d94e897cb3e4a6a54dc
   m_configObjects: {}
